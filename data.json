@@ -1,0 +1,46 @@
+{
+	"content": [
+		{
+			"type" : "history", 		
+			"language" : "english",
+			"title" : "Hello Comedy",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "history", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/panorama.jpeg"
+		},
+		{
+			"type" : "history", 		
+			"language" : "irish",
+			"title" : "Failte history Irish",
+			"paragraph": "Téann an Sean-Bhéarla, ar a dtugtar dubhlitir freisin, siar go dtí 1000 bliain ó shin nuair a úsáideadh é mar script ar fud Iarthar na hEorpa. Ba chóir a thabhairt faoi deara nach bhfuil baint ar bith ag an Sean-Bhéarla nó ag an litir dhubh leis an tsean-Bhéarla ná leis an tsean-Bhéarla scríofa le dubhlitir. Tá foirmeacha éagsúla dubhlitreacha ann, lena n-áirítear Textualis go príomha, an fhoirm dhubhlitir is callagrafaíochta; Schwabacher, seanfhoirm Bhéarla a bhí in úsáid go mór i gcló-aghaidheanna luatha na Gearmáine; Fraktur, an cló dubhlitreach Gearmánach is coitianta.",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "history", 		
+			"language" : "german",
+			"title" : "Hallo das ist die history ",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "art", 		
+			"language" : "english",
+			"title" : "Hello Art",
+			"paragraph": "Hello everyone I'm here to talk the Art of GG about Grangegorman",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "art", 		
+			"language" : "french",
+			"title" : "Bonjour Art",
+			"paragraph": "Bonjour a tous je vous presenter l art de Grangegorman",
+			"image": "/img/test.png"
+		}
+	]
+}
