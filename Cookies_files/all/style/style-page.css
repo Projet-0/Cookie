@@ -1,0 +1,50 @@
+
+* {
+	text-transform: "Arial" ;
+	background-color: #20232a;
+}
+
+
+
+.title {
+	height: 200px ;
+	width: 100% ; 
+	overflow: hidden ;
+	/*background: url("/img/dublin-panorama.jpeg")  ;
+	background-repeat: no-repeat ;*/
+	
+}
+
+
+.title > img {
+	height : auto;
+	max-height : 150px;
+	width: 100% ;
+}
+
+.title > a {
+	padding-left : 10px ;
+} 
+
+h1 {
+	color: purple;
+	text-align: center ;
+}
+
+h2 {
+	color: black;
+}
+
+p {
+	color: black ;
+}
+
+
+
+.content {
+	color: black ;
+}
+
+select {
+	/*background-color: red;*/
+}

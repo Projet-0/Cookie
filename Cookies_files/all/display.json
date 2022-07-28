@@ -1,0 +1,32 @@
+{
+	"content": [
+		{
+			"type" : "history", 		
+			"language" : "english",
+			"title" : "Hello Comedy",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "history", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/test.png"
+		},
+		{
+			"type" : "art", 		
+			"language" : "english",
+			"title" : "Hello Art",
+			"paragraph": "Hello everyone I'm here to talk the Art of GG about Grangegorman",
+			"image": "/img/test2.png"
+		},
+		{
+			"type" : "art", 		
+			"language" : "french",
+			"title" : "Bonjour Art",
+			"paragraph": "Bonjour a tous je vous presenter l art de Grangegorman",
+			"image": "/img/test2.png"
+		}
+	]
+}

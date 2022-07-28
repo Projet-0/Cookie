@@ -1,0 +1,165 @@
+{
+	"content": [
+		{
+			"place": "central quad",
+			"type" : "history", 		
+			"language" : "english",
+			"title" : "Hello History path",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "history", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "history", 		
+			"language" : "irish",
+			"title" : "Failte history Irish",
+			"paragraph": "Téann an Sean-Bhéarla, ar a dtugtar dubhlitir freisin, siar go dtí 1000 bliain ó shin nuair a úsáideadh é mar script ar fud Iarthar na hEorpa. Ba chóir a thabhairt faoi deara nach bhfuil baint ar bith ag an Sean-Bhéarla nó ag an litir dhubh leis an tsean-Bhéarla ná leis an tsean-Bhéarla scríofa le dubhlitir. Tá foirmeacha éagsúla dubhlitreacha ann, lena n-áirítear Textualis go príomha, an fhoirm dhubhlitir is callagrafaíochta; Schwabacher, seanfhoirm Bhéarla a bhí in úsáid go mór i gcló-aghaidheanna luatha na Gearmáine; Fraktur, an cló dubhlitreach Gearmánach is coitianta.",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "history", 		
+			"language" : "german",
+			"title" : "Hallo das ist die history ",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "history", 		
+			"language" : "spanish",
+			"title" : "Hola todos, ",
+			"paragraph": "Yo vivo en Granada, una ciudad pequeña que tiene monumentos muy",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "art", 		
+			"language" : "english",
+			"title" : "Hello History path",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "art", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "art", 		
+			"language" : "irish",
+			"title" : "Failte art Irish",
+			"paragraph": "Téann an Sean-Bhéarla, ar a dtugtar dubhlitir freisin, siar go dtí 1000 bliain ó shin nuair a úsáideadh é mar script ar fud Iarthar na hEorpa. Ba chóir a thabhairt faoi deara nach bhfuil baint ar bith ag an Sean-Bhéarla nó ag an litir dhubh leis an tsean-Bhéarla ná leis an tsean-Bhéarla scríofa le dubhlitir. Tá foirmeacha éagsúla dubhlitreacha ann, lena n-áirítear Textualis go príomha, an fhoirm dhubhlitir is callagrafaíochta; Schwabacher, seanfhoirm Bhéarla a bhí in úsáid go mór i gcló-aghaidheanna luatha na Gearmáine; Fraktur, an cló dubhlitreach Gearmánach is coitianta.",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "art", 		
+			"language" : "german",
+			"title" : "Hallo das ist die history ",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "central quad",
+			"type" : "art", 		
+			"language" : "spanish",
+			"title" : "Hola todos, ",
+			"paragraph": "Yo vivo en Granada, una ciudad pequeña que tiene monumentos muy",
+			"image": "/img/central-quad.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "history", 		
+			"language" : "english",
+			"title" : "Hello History path",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "history", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "history", 		
+			"language" : "irish",
+			"title" : "Failte history Irish",
+			"paragraph": "Téann an Sean-Bhéarla, ar a dtugtar dubhlitir freisin, siar go dtí 1000 bliain ó shin nuair a úsáideadh é mar script ar fud Iarthar na hEorpa. Ba chóir a thabhairt faoi deara nach bhfuil baint ar bith ag an Sean-Bhéarla nó ag an litir dhubh leis an tsean-Bhéarla ná leis an tsean-Bhéarla scríofa le dubhlitir. Tá foirmeacha éagsúla dubhlitreacha ann, lena n-áirítear Textualis go príomha, an fhoirm dhubhlitir is callagrafaíochta; Schwabacher, seanfhoirm Bhéarla a bhí in úsáid go mór i gcló-aghaidheanna luatha na Gearmáine; Fraktur, an cló dubhlitreach Gearmánach is coitianta.",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "history", 		
+			"language" : "german",
+			"title" : "Hallo das ist die history ",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "history", 		
+			"language" : "spanish",
+			"title" : "Hola todos, ",
+			"paragraph": "Yo vivo en Granada, una ciudad pequeña que tiene monumentos muy",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "art", 		
+			"language" : "english",
+			"title" : "Hello History path",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "art", 		
+			"language" : "french",
+			"title" : "Bonjour Histoire en fr",
+			"paragraph": "Bonjour a tous je vous presenter l histoire de Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "art", 		
+			"language" : "irish",
+			"title" : "Failte history Irish",
+			"paragraph": "Téann an Sean-Bhéarla, ar a dtugtar dubhlitir freisin, siar go dtí 1000 bliain ó shin nuair a úsáideadh é mar script ar fud Iarthar na hEorpa. Ba chóir a thabhairt faoi deara nach bhfuil baint ar bith ag an Sean-Bhéarla nó ag an litir dhubh leis an tsean-Bhéarla ná leis an tsean-Bhéarla scríofa le dubhlitir. Tá foirmeacha éagsúla dubhlitreacha ann, lena n-áirítear Textualis go príomha, an fhoirm dhubhlitir is callagrafaíochta; Schwabacher, seanfhoirm Bhéarla a bhí in úsáid go mór i gcló-aghaidheanna luatha na Gearmáine; Fraktur, an cló dubhlitreach Gearmánach is coitianta.",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "art", 		
+			"language" : "german",
+			"title" : "Hallo das ist die history ",
+			"paragraph": "Hello everyone I'm here to talk about Grangegorman",
+			"image": "/img/greenway-hub.jpg"
+		},
+		{
+			"place": "greenway hub",
+			"type" : "art", 		
+			"language" : "spanish",
+			"title" : "Hola todos, ",
+			"paragraph": "Yo vivo en Granada, una ciudad pequeña que tiene monumentos muy",
+			"image": "/img/greenway-hub.jpg"
+		}
+
+	]
+}
