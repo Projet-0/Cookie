@@ -109,13 +109,12 @@ if(isset( $_POST['personal_submit']) ) {                                        
 	mysqli_query($conn,$query) ;
 	echo "Fin de test" ;
 
-/*
+
 	if(mysqli_query($conn,$query)) { // Check if the datas were updated into the database     
 		echo "We saved your data" ;
 	} else {
 		echo "Error" . $query . "<br>" . mysqli_error($conn) ;
 	}
-*/
 }
 mysqli_close($conn) ;
 ?>
