@@ -23,15 +23,15 @@
  */  
 
 
-	function get_json($cookie_type,$cookie_langage,$content) {
+	function get_json($place,$cookie_type,$cookie_langage,$content) {
 
-		$jsondata = file_get_contents("data.json");                                                     // If you fill the second parameter with false it will set the use_include_path variable to false 
-		$json = json_decode($jsondata,true);         
+		$jsondata = file_get_contents("data.json"); 		// If you fill the second parameter with false it will set the use_include_path variable to false 
+		$json = json_decode($jsondata,true);			
 		global $result ;
 
-		foreach($json['content'] as $preference) {                                                      // It's a For loop, we will look over each element of the array content and we will called it $preference
-			if ($preference['type'] == $cookie_type && $preference['language'] == $cookie_langage) {    // If the type of the element (i.e 'art','history'...) is the one set for the cookie AND the language is the one choose for the cookie 
-				$result = $preference[$content] ;                                                       // $result get the content of the json file and then we return $result
+		foreach($json['content'] as $preference) {		 // It's a For loop, we will look over each element of the array content and we will called it $preference
+			if ($preference['place'] == $place && $preference['type'] == $cookie_type && $preference['language'] == $cookie_langage) {	// If the type of the element (i.e 'art','history'...) is the one set for the cookie AND the language is the one choose for the cookie 
+				$result = $preference[$content] ;	// $result get the content of the json file and then we return $result
 			}
 		}
 		return $result ;
